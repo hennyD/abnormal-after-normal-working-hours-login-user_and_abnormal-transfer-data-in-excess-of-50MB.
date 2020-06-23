@@ -1,4 +1,4 @@
-# abnormal_login_user-and-abnormal-transfer-data-in-excess-of-50MB-after-normal-working-hours
+# abnormal_login_user and abnormal transfer data in excess of 50MB after normal working hours
 
 extract_abnormal_login_time.py - Write a script to search an audit log or access control system log in to identify system users who repeatedly log-on after normal local business hours.
 extract_abnormal_login_time_and_filesize_exceed.py - Write a script to search and audit log or access control system log to identify system users who repeatedly transfer data in excess of 50MB after normal working hours. 
