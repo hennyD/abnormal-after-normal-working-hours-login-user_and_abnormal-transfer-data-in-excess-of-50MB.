@@ -8,7 +8,7 @@ Usage:
 
 2.	python extract_abnormal_login_time_and_filesize_exceed  ${fileRootName} ------ Similar like above, in abnormal_time_login_exceed_file_size.txt
 
-If you want a schedule, for Linux server, use 
+If it needs to schedule, for Linux server, use 
 crontab -e  then insert:
 00 00 * * * python extract_abnormal_login_time.py  ${fileRootName}
 00 00 * * * python extract_abnormal_login_time_and_filesize_exceed  ${fileRootName} 
